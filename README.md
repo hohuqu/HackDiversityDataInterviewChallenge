@@ -9,12 +9,13 @@ This challenge assesses the following skills:
 - **Exploratory Data Analysis**: Analyze user engagement and feature adoption.
 - **Feature Engineering**: Develop new features to enhance your analysis.
 - **Predictive Modeling**: Build a basic model to understand user behavior.
-- **Version Control**: Submit your work through GitHub, showcasing a clear commit history.
+- **Visualization Tools**: Utilize tools such as Tableau Public for advanced visualizations, where appropriate.
+- **Version Control**: Use GitHub to demonstrate a well-organized, meaningful commit history for each stage of your work.
 
 ## Preparation and Setup
 
 1. **Fork the Repository**: Clone the provided repository. If no starter repo is provided, create a new one and commit your work frequently.
-2. **Make Meaningful Commits**: Each major task (e.g., data cleaning, feature engineering, etc.) should have its own commit to track progress.
+2. **Make Meaningful Commits**: Ensure each significant task (e.g., data cleaning, feature engineering, etc.) has its own commit to track progress. Clear, descriptive commit messages will showcase your work methodology effectively.
 
 ## Instructions
 
@@ -41,6 +42,7 @@ This challenge assesses the following skills:
 
 - **Engagement Score Analysis**: Visualize engagement scores across features and demographics (e.g., age group, gender, additional attributes). Highlight which demographics show the highest engagement for each feature.
 - **Feature Usage by Demographic**: Examine patterns in `feature_used` across demographic attributes. Use your new intersectional column to uncover trends that may not appear when demographics are analyzed individually.
+- **Recommendation**: Use **Tableau Public** for advanced visualizations such as interactive dashboards, which can provide deeper insights into feature usage and demographic trends. Export key visualizations for inclusion in your final report.
 
 ### 4. Feature Engineering & Predictive Modeling
 
@@ -57,13 +59,14 @@ This challenge assesses the following skills:
 ## Submission Requirements
 
 - **File Format**: Submit a Jupyter Notebook or RMarkdown file containing code, visualizations, and a 3-4 sentence summary for each analysis section.
-- **GitHub Submission**: Push your work to GitHub, making meaningful commits. Include comments for each major section.
+- **GitHub Submission**: Push your work to GitHub, ensuring a meaningful commit history. Each major section of the analysis should have its own commit, clearly labeled (e.g., “Completed data cleaning” or “Finished EDA”).
+- **Google Drive Form Submission**: It is required to submit your final Jupyter Notebook or RMarkdown file through the provided Google Drive form.
 
 ## Helpful Tips
 
-- **Exploratory Data Analysis**: Use libraries like Matplotlib, Seaborn, or ggplot2 to clarify insights.
+- **Exploratory Data Analysis**: Use libraries like Matplotlib, Seaborn, ggplot2, or Tableau Public for visualizations.
 - **Predictive Model**: Keep it simple with logistic regression or a decision tree.
-- **Version Control**: Use clear commit messages like “Completed data cleaning” or “Finished EDA.”
+- **Version Control**: Use clear commit messages for every significant update.
 
 ## Evaluation Criteria
 
