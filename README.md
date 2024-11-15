@@ -60,7 +60,7 @@ This challenge assesses the following skills:
 
 - **File Format**: Submit a Jupyter Notebook or RMarkdown file containing code, visualizations, and a 3-4 sentence summary for each analysis section.
 - **GitHub Submission**: Push your work to GitHub, ensuring a meaningful commit history. Each major section of the analysis should have its own commit, clearly labeled (e.g., “Completed data cleaning” or “Finished EDA”).
-- **Google Drive Form Submission**: It is required to submit your final Jupyter Notebook or RMarkdown file through the provided Google Drive form.
+- **Google Drive Form Submission**: It is required to submit your final Jupyter Notebook or RMarkdown file through [this link](https://forms.gle/DkpJi7TgLwv2nZLm6).
 
 ## Helpful Tips
 
